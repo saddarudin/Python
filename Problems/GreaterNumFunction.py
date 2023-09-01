@@ -1,5 +1,4 @@
-# Define a function in Python which returns the
-# greater of the two numbers
+# Define a function in Python which returns the greater number from the two numbers
 
 def max_num(num1, num2):
     if num1 > num2:
