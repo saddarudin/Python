@@ -5,6 +5,6 @@
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))
 if name[0] == ('a' or 'A') and age > 10:
-    print("You can watch coco movie")
+    print("You can watch Coco movie")
 else:
-    print("Sorry, you cannot watch coco")
+    print("Sorry, you cannot watch Coco")
