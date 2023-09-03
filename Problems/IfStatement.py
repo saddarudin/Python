@@ -6,5 +6,7 @@ if age >= 18:
 else:
     print("Bare harami ho beta")
     print("Chhad nibhag khe")
-    print("Wahre wa jawan")
+    print("Wah're wa jawan")
     print("Halla bhanna jawan")
+    print("Mare chadiyaee!!")
+    print("Mana suk kareens!")
