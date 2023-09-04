@@ -1,6 +1,6 @@
 # Python Repository
 This repository is providing you solution of all the problems that I have solved using Python.
-If you find any mistake either logical or syntatical please make a PR. 
+If you get any mistake either logical or syntatical arise an issue suggesting change. 
 I will be waiting for your first PR. You can give me any suggestion for this 
 particular repository your suggestion will be appreciated.
 
