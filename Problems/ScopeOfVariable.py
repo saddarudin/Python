@@ -1,15 +1,15 @@
-x = 10
+num = 10
 
 def function1():
-    x = 15
+    num = 15
     print(x)
 
 function1()
-print(x)
+print(num)
 
 def function2():
-    global x
-    x = 15
+    global num
+    num = 15
 
 function2()
-print(x)
+print(num)
