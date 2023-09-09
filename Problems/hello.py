@@ -1,5 +1,5 @@
 # this is my first program in python
-print("Chad Nibhag Khe")
+print("Halla Bhana Jawan!!!")
 print('Na kar')
 
 # this is single line comment
