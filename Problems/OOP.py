@@ -5,7 +5,7 @@ class Computer:
         self.price = price
 
     def show_details(self):
-        print(f"Brand name is {self.brand}, model is {self.model} and price is {self.price}")
+        print(f"The name of the brand is {self.brand}, model is {self.model} and price is {self.price}")
 
 
 my_computer = Computer("HP", 2019, 80)
