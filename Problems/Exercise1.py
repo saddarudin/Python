@@ -1,4 +1,4 @@
-# Print the following lines
+# Print the following lines of code
 # 1. This is \\ double backslash
 # 2. These are mountains /\/\/\/\
 # 3. He is   awesome (use escape sequence instead of manual spaces)
