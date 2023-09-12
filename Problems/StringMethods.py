@@ -1,5 +1,5 @@
 # Take two comma separated inputs from user
-# 1) User's name and
+# 1) Name of the user and
 # 2) a character
 # Then print the length of name and count the character that
 # user inputted
