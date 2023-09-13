@@ -1,4 +1,4 @@
-# Print multiple values in single line
+# Print multiple values in one line or same line
 
 # example 1
 
