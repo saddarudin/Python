@@ -1,4 +1,4 @@
-# Define decorator that calculate the time to run a function
+# Define decorator that calculates the time to run a function
 
 from functools import wraps
 import time
