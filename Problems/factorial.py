@@ -1,3 +1,4 @@
+#defining factorial method
 
 def factorial(n):
     result = 1
