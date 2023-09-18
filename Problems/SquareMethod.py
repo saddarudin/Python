@@ -1,4 +1,4 @@
-# Make a method which takes list as an input
+# Make a function which takes a list as an input
 # and returns its square
 
 def square(my_list):
