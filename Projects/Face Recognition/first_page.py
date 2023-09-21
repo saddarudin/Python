@@ -18,7 +18,7 @@ def show_options():
 
         options_window.protocol("WM_DELETE_WINDOW", on_options_window_close)
     else:
-        messagebox.showinfo("Student", "You are logged in as a Student.")
+        messagebox.showinfo("Student", "You are logged in as a student.")
 
 
 def on_options_window_close():
@@ -40,7 +40,7 @@ admin_label.bind("<Button-1>", lambda event: show_options())
 
 student_label = tk.Label(root, text="Student", cursor="hand2")
 student_label.pack()
-student_label.bind("<Button-1>", lambda event: messagebox.showinfo("Student", "You are logged in as a Student."))
+student_label.bind("<Button-1>", lambda event: messagebox.showinfo("Student", "You are logged in as a student."))
 
 
 root.geometry("300x300+100+50")
