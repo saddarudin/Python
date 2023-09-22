@@ -5,7 +5,7 @@ from tkinter import PhotoImage
 
 
 def admin_selected():
-    password = simpledialog.askstring("Password", "Enter password:", show='*')
+    password = simpledialog.askstring("Password", "Enter Password:", show='*')
     if password == '12345':
         root.withdraw()
         options_window = tk.Toplevel(root)
